@@ -1,0 +1,29 @@
+[
+    {
+        "banco": "Itaú",
+        "pagador": "mnbjbim",
+        "vencimento": "2025-11-14",
+        "valor": 5000.0,
+        "categoria": "Água",
+        "numero_boleto": "5425625325605",
+        "cadastrado_por": "aline",
+        "cadastrado_por_nome": "aline",
+        "id": 11,
+        "data_cadastro": "2025-11-14 20:45:20",
+        "status": "pago",
+        "data_pagamento": "2025-11-14 20:47:46"
+    },
+    {
+        "banco": "Banco do Brasil",
+        "pagador": "nilton fernando",
+        "vencimento": "2025-11-18",
+        "valor": 4561.0,
+        "categoria": "Água",
+        "numero_boleto": "444444444444444444444444444444444444444444444",
+        "cadastrado_por": "funcionario",
+        "cadastrado_por_nome": "Funcionário Teste",
+        "id": 12,
+        "data_cadastro": "2025-11-18 10:07:51",
+        "status": "pendente"
+    }
+]

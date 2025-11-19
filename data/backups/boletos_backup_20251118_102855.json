@@ -1,0 +1,71 @@
+[
+    {
+        "banco": "Banco do Brasil",
+        "pagador": "ajsdklmda",
+        "vencimento": "2025-11-13",
+        "valor": 500004.0,
+        "categoria": "Outros",
+        "numero_boleto": "5425625325605",
+        "cadastrado_por": "funcionario",
+        "cadastrado_por_nome": "Funcionário Teste",
+        "id": 8,
+        "data_cadastro": "2025-11-13 11:58:55",
+        "status": "pago",
+        "data_pagamento": "2025-11-14 20:02:21"
+    },
+    {
+        "banco": "Banco do Brasil",
+        "pagador": "mnbjbim",
+        "vencimento": "2025-11-14",
+        "valor": 456.0,
+        "categoria": "Fornecedores",
+        "numero_boleto": "5425625325605",
+        "cadastrado_por": "nilton",
+        "cadastrado_por_nome": "nilton",
+        "id": 9,
+        "data_cadastro": "2025-11-13 16:56:00",
+        "status": "pago",
+        "data_pagamento": "2025-11-14 20:47:41"
+    },
+    {
+        "banco": "Banco do Brasil",
+        "pagador": "aline",
+        "vencimento": "2025-11-22",
+        "valor": 51214.0,
+        "categoria": "Impostos",
+        "numero_boleto": "2121131424213225151351651351523",
+        "cadastrado_por": "funcionario",
+        "cadastrado_por_nome": "Funcionário Teste",
+        "id": 10,
+        "data_cadastro": "2025-11-14 17:22:35",
+        "status": "pago",
+        "data_pagamento": "2025-11-17 22:02:18"
+    },
+    {
+        "banco": "Itaú",
+        "pagador": "mnbjbim",
+        "vencimento": "2025-11-14",
+        "valor": 5000.0,
+        "categoria": "Água",
+        "numero_boleto": "5425625325605",
+        "cadastrado_por": "aline",
+        "cadastrado_por_nome": "aline",
+        "id": 11,
+        "data_cadastro": "2025-11-14 20:45:20",
+        "status": "pago",
+        "data_pagamento": "2025-11-14 20:47:46"
+    },
+    {
+        "banco": "Banco do Brasil",
+        "pagador": "nilton fernando",
+        "vencimento": "2025-11-18",
+        "valor": 4561.0,
+        "categoria": "Água",
+        "numero_boleto": "444444444444444444444444444444444444444444444",
+        "cadastrado_por": "funcionario",
+        "cadastrado_por_nome": "Funcionário Teste",
+        "id": 12,
+        "data_cadastro": "2025-11-18 10:07:51",
+        "status": "pendente"
+    }
+]

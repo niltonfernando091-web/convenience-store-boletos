@@ -1,0 +1,19 @@
+[
+    {
+        "banco": "Banco do Brasil",
+        "pagador": "asddad",
+        "vencimento": "2025-11-18",
+        "valor": 1235.0,
+        "categoria": "Impostos",
+        "numero_boleto": "5623543213",
+        "cadastrado_por": "funcionario",
+        "cadastrado_por_nome": "Funcionário Teste",
+        "tem_foto": true,
+        "caminho_foto": "boletos_fotos\\boleto_3.jpg",
+        "nome_arquivo": "boleto_3.jpg",
+        "id": 3,
+        "data_cadastro": "2025-11-18 14:02:17",
+        "status": "pago",
+        "data_pagamento": "2025-11-19 15:24:50"
+    }
+]

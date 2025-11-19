@@ -1,0 +1,130 @@
+[2025-11-13 17:26:41] Senha Migrada | Usuário: Sistema | Detalhes: Usuário: admin
+[2025-11-13 17:26:41] Senha Migrada | Usuário: Sistema | Detalhes: Usuário: funcionario
+[2025-11-13 17:26:41] Senha Migrada | Usuário: Sistema | Detalhes: Usuário: nilton
+[2025-11-13 17:26:41] Migração Concluída | Usuário: Sistema | Detalhes: Todas as senhas foram criptografadas
+[2025-11-13 17:26:43] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-13 18:16:37] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-13 18:20:51] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-13 18:23:16] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-13 18:24:38] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-14 17:01:14] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-14 17:04:45] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-14 17:06:10] Usuário Excluído | Usuário: Sistema | Detalhes: Usuário: nilton
+[2025-11-14 17:06:47] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-14 17:18:27] Tentativa de Login Falha | Usuário: funcinorio  | Detalhes: Usuário não existe
+[2025-11-14 17:18:41] Tentativa de Login Falha | Usuário: funcionario  | Detalhes: Usuário não existe
+[2025-11-14 17:18:54] Tentativa de Login Falha | Usuário: funcionario  | Detalhes: Usuário não existe
+[2025-11-14 17:19:14] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-14 17:20:45] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-14 17:24:48] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-14 17:26:02] Usuário Criado | Usuário: Sistema | Detalhes: Novo funcionario: nilton
+[2025-11-14 17:26:19] Login Bem-Sucedido | Usuário: nilton | Detalhes: 
+[2025-11-14 17:26:53] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-14 17:27:13] Usuário Criado | Usuário: Sistema | Detalhes: Novo funcionario: dudu
+[2025-11-14 17:27:31] Login Bem-Sucedido | Usuário: dudu | Detalhes: 
+[2025-11-14 17:28:08] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-14 17:28:51] Usuário Excluído | Usuário: Sistema | Detalhes: Usuário: nilton
+[2025-11-14 17:29:15] Usuário Criado | Usuário: Sistema | Detalhes: Novo funcionario: nilton
+[2025-11-14 17:29:32] Login Bem-Sucedido | Usuário: nilton | Detalhes: 
+[2025-11-14 17:30:38] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-14 17:32:35] Usuário Excluído | Usuário: Sistema | Detalhes: Usuário: dudu
+[2025-11-14 17:32:41] Usuário Excluído | Usuário: Sistema | Detalhes: Usuário: nilton
+[2025-11-14 17:38:07] Tentativa de Login Falha | Usuário: eduardo | Detalhes: Usuário não existe
+[2025-11-14 17:38:42] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-14 20:01:39] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-14 20:41:43] Usuário Criado | Usuário: Sistema | Detalhes: Novo funcionario: aline
+[2025-11-14 20:42:07] Login Bem-Sucedido | Usuário: aline | Detalhes: 
+[2025-11-14 20:47:20] Login Bem-Sucedido | Usuário: aline | Detalhes: 
+[2025-11-14 20:47:30] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-14 20:48:05] Login Bem-Sucedido | Usuário: aline | Detalhes: 
+[2025-11-14 20:49:54] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-17 19:40:20] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-17 20:37:36] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-17 20:47:23] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-17 21:14:52] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-17 21:16:10] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-17 21:53:48] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-17 21:57:34] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 01:22:03] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 09:57:42] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 10:07:38] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-18 10:08:00] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 10:28:09] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 11:37:05] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 11:46:21] Tentativa de Login Falha | Usuário: funcionario | Detalhes: Senha incorreta
+[2025-11-18 11:46:29] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-18 11:52:03] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 12:05:05] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 12:05:49] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-18 12:07:24] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 12:17:56] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 12:18:25] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 12:30:16] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 13:15:29] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 13:17:37] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-18 13:38:39] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 13:39:06] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-18 13:40:31] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 13:41:07] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-18 13:46:36] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 14:01:52] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-18 14:02:35] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 14:34:00] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 15:45:09] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 15:49:24] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-18 16:20:00] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 10:14:53] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 10:17:23] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-19 10:19:05] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 10:21:31] Usuário Criado | Usuário: Sistema | Detalhes: Novo funcionario: bruno
+[2025-11-19 10:21:54] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 10:22:15] Login Bem-Sucedido | Usuário: bruno | Detalhes: 
+[2025-11-19 11:19:46] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 11:34:30] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 11:59:19] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 12:02:26] Tentativa de Login Falha | Usuário: funcionario | Detalhes: Senha incorreta
+[2025-11-19 12:02:32] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-19 12:05:14] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 12:20:57] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 13:07:59] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 13:16:01] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 13:17:14] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 13:24:46] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 13:25:05] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 13:53:43] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 13:55:34] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 13:56:23] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 13:57:07] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 13:57:50] Usuário Excluído | Usuário: Sistema | Detalhes: Usuário: aline
+[2025-11-19 13:57:53] Usuário Excluído | Usuário: Sistema | Detalhes: Usuário: bruno
+[2025-11-19 14:00:07] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 14:01:21] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 14:03:03] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 14:24:05] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 14:28:50] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 14:29:49] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 14:45:05] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 14:59:05] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 14:59:42] Usuário Criado | Usuário: Sistema | Detalhes: Novo gerente: nilton
+[2025-11-19 15:00:01] Login Bem-Sucedido | Usuário: nilton | Detalhes: 
+[2025-11-19 15:00:16] Tentativa de Login Falha | Usuário: admin  | Detalhes: Usuário não existe
+[2025-11-19 15:00:27] Login Bem-Sucedido | Usuário: nilton | Detalhes: 
+[2025-11-19 15:02:55] Tentativa de Login Falha | Usuário: funcionario | Detalhes: Senha incorreta
+[2025-11-19 15:03:02] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-19 15:07:05] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-19 15:09:54] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-19 15:11:02] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-19 15:11:52] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-19 15:12:19] Login Bem-Sucedido | Usuário: nilton | Detalhes: 
+[2025-11-19 15:18:22] Login Bem-Sucedido | Usuário: nilton | Detalhes: 
+[2025-11-19 15:22:05] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-19 15:24:30] Login Bem-Sucedido | Usuário: nilton | Detalhes: 
+[2025-11-19 18:19:03] Tentativa de Login Falha | Usuário: nilton  | Detalhes: Usuário não existe
+[2025-11-19 18:19:10] Tentativa de Login Falha | Usuário: nilton  | Detalhes: Usuário não existe
+[2025-11-19 18:19:25] Tentativa de Login Falha | Usuário: nilton  | Detalhes: Usuário não existe
+[2025-11-19 18:19:39] Login Bem-Sucedido | Usuário: funcionario | Detalhes: 
+[2025-11-19 18:19:53] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 18:20:09] Usuário Excluído | Usuário: Sistema | Detalhes: Usuário: nilton
+[2025-11-19 18:21:28] Tentativa de Login Falha | Usuário: nilton | Detalhes: Usuário não existe
+[2025-11-19 18:21:41] Login Bem-Sucedido | Usuário: admin | Detalhes: 
+[2025-11-19 18:43:07] Login Bem-Sucedido | Usuário: admin | Detalhes: 

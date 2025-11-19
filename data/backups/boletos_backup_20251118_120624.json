@@ -1,0 +1,15 @@
+[
+    {
+        "banco": "Banco do Brasil",
+        "pagador": "ana ",
+        "vencimento": "2025-11-19",
+        "valor": 650.0,
+        "categoria": "Água",
+        "numero_boleto": "45216562659",
+        "cadastrado_por": "funcionario",
+        "cadastrado_por_nome": "Funcionário Teste",
+        "id": 1,
+        "data_cadastro": "2025-11-18 12:06:24",
+        "status": "pendente"
+    }
+]

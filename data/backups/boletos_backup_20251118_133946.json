@@ -1,0 +1,16 @@
+[
+    {
+        "banco": "Santander",
+        "pagador": "solar",
+        "vencimento": "2025-11-18",
+        "valor": 4562.0,
+        "categoria": "Fornecedores",
+        "numero_boleto": "61656565165165",
+        "cadastrado_por": "funcionario",
+        "cadastrado_por_nome": "Funcionário Teste",
+        "tem_foto": false,
+        "id": 1,
+        "data_cadastro": "2025-11-18 13:39:46",
+        "status": "pendente"
+    }
+]

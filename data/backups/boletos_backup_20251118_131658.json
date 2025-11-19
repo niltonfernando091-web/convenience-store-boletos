@@ -1,0 +1,28 @@
+[
+    {
+        "banco": "Banco do Brasil",
+        "pagador": "nilton fernando",
+        "vencimento": "2025-11-19",
+        "valor": 6548.0,
+        "categoria": "Aluguel",
+        "numero_boleto": "444444444444444444444444444444444444444444444",
+        "cadastrado_por": "funcionario",
+        "cadastrado_por_nome": "Funcionário Teste",
+        "id": 2,
+        "data_cadastro": "2025-11-18 12:06:41",
+        "status": "pendente"
+    },
+    {
+        "banco": "Banco do Brasil",
+        "pagador": "ajosd ",
+        "vencimento": "2025-11-30",
+        "valor": 698.0,
+        "categoria": "Fornecedores",
+        "numero_boleto": "54566982",
+        "cadastrado_por": "funcionario",
+        "cadastrado_por_nome": "Funcionário Teste",
+        "id": 3,
+        "data_cadastro": "2025-11-18 12:07:06",
+        "status": "pendente"
+    }
+]

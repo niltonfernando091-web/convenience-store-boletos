@@ -1,0 +1,18 @@
+{
+    "admin": {
+        "nome": "Gerente Principal",
+        "senha": "901f58ae2a3dc9df47da585686afc7d6$baba442e7f94269f6f5df5688ccf7ec1a554c0b419250fd9431c62293b65d7fa",
+        "tipo": "gerente"
+    },
+    "funcionario": {
+        "nome": "Funcionário Teste",
+        "senha": "9be1cb1594041d069a2614b34a2eb26a$fbf66ef844a99637d831b293e487a65f06b58c900f00f1cf561cb063da1ea913",
+        "tipo": "funcionario"
+    },
+    "aline": {
+        "nome": "aline",
+        "senha": "e7af024b39f4e59409be4280ee33dd56$96bdfa3716c99dcd2229260f74ead90c0831d2f22eb418418dd61a7507bcf365",
+        "tipo": "funcionario",
+        "data_criacao": "2025-11-14 20:41:43"
+    }
+}

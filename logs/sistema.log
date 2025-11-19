@@ -1,0 +1,101 @@
+[2025-11-13 11:51:06] INFO: Backup criado: boletos_backup_20251113_115106.json | Motivo: pre_salvar boletos | Hash: 2674b05a05d515a3986da5ed0df4c8ae
+[2025-11-13 11:51:06] INFO: Backup criado: boletos_backup_20251113_115106.json | Motivo: backup_automatico | Hash: e48c5e7f665188d7092e3a3b60bd6729
+[2025-11-13 11:51:18] INFO: Backup criado: boletos_backup_20251113_115118.json | Motivo: pre_salvar boletos | Hash: e48c5e7f665188d7092e3a3b60bd6729
+[2025-11-13 11:51:18] INFO: Backup criado: boletos_backup_20251113_115118.json | Motivo: backup_automatico | Hash: cd51d13190fdfaceeb32c8b756a4a526
+[2025-11-13 11:51:50] INFO: Backup criado: boletos_backup_20251113_115150.json | Motivo: pre_salvar boletos | Hash: cd51d13190fdfaceeb32c8b756a4a526
+[2025-11-13 11:51:50] INFO: Backup criado: boletos_backup_20251113_115150.json | Motivo: backup_automatico | Hash: 8c0d7bd233909fa6132b1519fc8cbbc6
+[2025-11-13 11:58:55] INFO: Backup criado: boletos_backup_20251113_115855.json | Motivo: pre_salvar boletos | Hash: 8c0d7bd233909fa6132b1519fc8cbbc6
+[2025-11-13 11:58:55] INFO: Backup criado: boletos_backup_20251113_115855.json | Motivo: pos_salvar_boleto | Hash: ecb1b6722a8616be0d8abf554030c363
+[2025-11-13 16:30:13] ERRO: Erro ao criar backup: _path_exists: path should be string, bytes, os.PathLike or integer, not Database
+2025-11-14 17:22:35,195 - INFO - Backup criado: boletos_backup_20251114_172235.json
+2025-11-14 17:22:35,201 - INFO - Backup criado: users_backup_20251114_172235.json
+2025-11-14 17:26:02,923 - INFO - Backup criado: boletos_backup_20251114_172602.json
+2025-11-14 17:26:02,928 - INFO - Backup criado: users_backup_20251114_172602.json
+2025-11-14 17:27:13,047 - INFO - Backup criado: boletos_backup_20251114_172713.json
+2025-11-14 17:27:13,051 - INFO - Backup criado: users_backup_20251114_172713.json
+2025-11-14 17:29:15,535 - INFO - Backup criado: boletos_backup_20251114_172915.json
+2025-11-14 17:29:15,541 - INFO - Backup criado: users_backup_20251114_172915.json
+2025-11-14 20:41:43,261 - INFO - Backup criado: boletos_backup_20251114_204143.json
+2025-11-14 20:41:43,270 - INFO - Backup criado: users_backup_20251114_204143.json
+2025-11-14 20:45:20,550 - INFO - Backup criado: boletos_backup_20251114_204520.json
+2025-11-14 20:45:20,557 - INFO - Backup criado: users_backup_20251114_204520.json
+2025-11-17 21:15:19,777 - INFO - Backup excluído: users_backup_20251114_204520.json
+2025-11-17 21:15:22,380 - INFO - Backup excluído: users_backup_20251114_204143.json
+2025-11-17 21:15:24,459 - INFO - Backup excluído: users_backup_20251114_172915.json
+2025-11-17 21:15:26,372 - INFO - Backup excluído: users_backup_20251114_172713.json
+2025-11-17 21:15:28,379 - INFO - Backup excluído: users_backup_20251114_172602.json
+2025-11-17 21:15:30,380 - INFO - Backup excluído: users_backup_20251114_172235.json
+2025-11-17 21:15:32,327 - INFO - Backup excluído: users_backup_20241205.json
+2025-11-17 21:15:34,174 - INFO - Backup excluído: boletos_backup_20251114_204520.json
+2025-11-17 21:15:36,087 - INFO - Backup excluído: boletos_backup_20251114_204143.json
+2025-11-17 21:15:38,015 - INFO - Backup excluído: boletos_backup_20251114_172915.json
+2025-11-17 21:15:40,009 - INFO - Backup excluído: boletos_backup_20251114_172713.json
+2025-11-17 21:15:41,965 - INFO - Backup excluído: boletos_backup_20251114_172602.json
+2025-11-17 21:15:44,417 - INFO - Backup excluído: boletos_backup_20241205.json
+2025-11-17 21:15:46,619 - INFO - Backup excluído: boletos_backup_20251113_115106.json
+2025-11-17 21:15:48,616 - INFO - Backup excluído: boletos_backup_20251113_115118.json
+2025-11-17 21:15:50,334 - INFO - Backup excluído: boletos_backup_20251113_115150.json
+2025-11-17 21:15:52,341 - INFO - Backup excluído: boletos_backup_20251113_115855.json
+2025-11-17 21:15:54,085 - INFO - Backup excluído: boletos_backup_20251114_172235.json
+2025-11-17 21:54:49,953 - INFO - Backup criado: boletos_backup_20251117_215449.json
+2025-11-17 21:54:49,955 - INFO - Backup criado: users_backup_20251117_215449.json
+2025-11-17 21:55:07,106 - INFO - Backup criado: boletos_backup_20251117_215507.json
+2025-11-17 21:55:07,108 - INFO - Backup criado: users_backup_20251117_215507.json
+2025-11-17 22:01:57,046 - INFO - Backup excluído: users_backup_20251117_215507.json
+2025-11-17 22:01:59,296 - INFO - Backup excluído: users_backup_20251117_215449.json
+2025-11-17 22:02:01,075 - INFO - Backup excluído: boletos_backup_20251117_215507.json
+2025-11-17 22:02:03,429 - INFO - Backup excluído: boletos_backup_20251117_215449.json
+2025-11-18 10:07:51,871 - INFO - Backup criado: boletos_backup_20251118_100751.json
+2025-11-18 10:07:51,877 - INFO - Backup criado: users_backup_20251118_100751.json
+2025-11-18 10:28:19,205 - INFO - Backup criado: boletos_backup_20251118_102819.json
+2025-11-18 10:28:19,214 - INFO - Backup criado: users_backup_20251118_102819.json
+2025-11-18 10:28:27,511 - INFO - Backup criado: boletos_backup_20251118_102827.json
+2025-11-18 10:28:27,514 - INFO - Backup criado: users_backup_20251118_102827.json
+2025-11-18 10:28:33,151 - INFO - Backup criado: boletos_backup_20251118_102833.json
+2025-11-18 10:28:33,156 - INFO - Backup criado: users_backup_20251118_102833.json
+2025-11-18 10:28:38,341 - INFO - Backup criado: boletos_backup_20251118_102838.json
+2025-11-18 10:28:38,372 - INFO - Backup criado: users_backup_20251118_102838.json
+2025-11-18 10:28:44,058 - INFO - Backup criado: boletos_backup_20251118_102844.json
+2025-11-18 10:28:44,069 - INFO - Backup criado: users_backup_20251118_102844.json
+2025-11-18 10:28:49,393 - INFO - Backup criado: boletos_backup_20251118_102849.json
+2025-11-18 10:28:49,404 - INFO - Backup criado: users_backup_20251118_102849.json
+2025-11-18 10:28:55,310 - INFO - Backup criado: boletos_backup_20251118_102855.json
+2025-11-18 10:28:55,319 - INFO - Backup criado: users_backup_20251118_102855.json
+2025-11-18 10:29:00,190 - INFO - Backup criado: boletos_backup_20251118_102900.json
+2025-11-18 10:29:00,210 - INFO - Backup criado: users_backup_20251118_102900.json
+2025-11-18 10:29:06,303 - INFO - Backup criado: boletos_backup_20251118_102906.json
+2025-11-18 10:29:06,308 - INFO - Backup criado: users_backup_20251118_102906.json
+2025-11-18 10:29:11,782 - INFO - Backup criado: boletos_backup_20251118_102911.json
+2025-11-18 10:29:11,812 - INFO - Backup criado: users_backup_20251118_102911.json
+2025-11-18 10:29:17,581 - INFO - Backup criado: boletos_backup_20251118_102917.json
+2025-11-18 10:29:17,586 - INFO - Backup criado: users_backup_20251118_102917.json
+2025-11-18 10:30:50,405 - INFO - Backup criado: boletos_backup_20251118_103050.json
+2025-11-18 10:30:50,407 - INFO - Backup criado: users_backup_20251118_103050.json
+2025-11-18 11:39:48,662 - INFO - Backup criado: boletos_backup_20251118_113948.json
+2025-11-18 11:39:48,668 - INFO - Backup criado: users_backup_20251118_113948.json
+2025-11-18 12:06:24,041 - INFO - Backup criado: boletos_backup_20251118_120624.json
+2025-11-18 12:06:24,046 - INFO - Backup criado: users_backup_20251118_120624.json
+2025-11-18 12:06:41,112 - INFO - Backup criado: boletos_backup_20251118_120641.json
+2025-11-18 12:06:41,116 - INFO - Backup criado: users_backup_20251118_120641.json
+2025-11-18 12:07:06,959 - INFO - Backup criado: boletos_backup_20251118_120706.json
+2025-11-18 12:07:06,962 - INFO - Backup criado: users_backup_20251118_120706.json
+2025-11-18 13:16:58,404 - INFO - Backup criado: boletos_backup_20251118_131658.json
+2025-11-18 13:16:58,407 - INFO - Backup criado: users_backup_20251118_131658.json
+2025-11-18 13:17:04,995 - INFO - Backup criado: boletos_backup_20251118_131704.json
+2025-11-18 13:17:04,998 - INFO - Backup criado: users_backup_20251118_131704.json
+2025-11-18 13:17:09,074 - INFO - Backup criado: boletos_backup_20251118_131709.json
+2025-11-18 13:17:09,077 - INFO - Backup criado: users_backup_20251118_131709.json
+2025-11-18 13:39:46,829 - INFO - Backup criado: boletos_backup_20251118_133946.json
+2025-11-18 13:39:46,832 - INFO - Backup criado: users_backup_20251118_133946.json
+2025-11-18 13:41:31,784 - INFO - Backup criado: boletos_backup_20251118_134131.json
+2025-11-18 13:41:31,786 - INFO - Backup criado: users_backup_20251118_134131.json
+2025-11-18 14:02:17,780 - INFO - Backup criado: boletos_backup_20251118_140217.json
+2025-11-18 14:02:17,783 - INFO - Backup criado: users_backup_20251118_140217.json
+2025-11-18 14:02:44,421 - INFO - Backup criado: boletos_backup_20251118_140244.json
+2025-11-18 14:02:44,423 - INFO - Backup criado: users_backup_20251118_140244.json
+2025-11-18 14:02:50,062 - INFO - Backup criado: boletos_backup_20251118_140250.json
+2025-11-18 14:02:50,065 - INFO - Backup criado: users_backup_20251118_140250.json
+2025-11-19 10:21:31,218 - INFO - Backup criado: boletos_backup_20251119_102131.json
+2025-11-19 10:21:31,224 - INFO - Backup criado: users_backup_20251119_102131.json
+2025-11-19 14:59:42,468 - INFO - Backup criado: boletos_backup_20251119_145942.json
+2025-11-19 14:59:42,471 - INFO - Backup criado: users_backup_20251119_145942.json

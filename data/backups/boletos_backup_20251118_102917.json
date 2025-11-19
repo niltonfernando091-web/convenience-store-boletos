@@ -1,0 +1,15 @@
+[
+    {
+        "banco": "Banco do Brasil",
+        "pagador": "nilton fernando",
+        "vencimento": "2025-11-18",
+        "valor": 4561.0,
+        "categoria": "Água",
+        "numero_boleto": "444444444444444444444444444444444444444444444",
+        "cadastrado_por": "funcionario",
+        "cadastrado_por_nome": "Funcionário Teste",
+        "id": 12,
+        "data_cadastro": "2025-11-18 10:07:51",
+        "status": "pendente"
+    }
+]
